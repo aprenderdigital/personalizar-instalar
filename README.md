@@ -3,5 +3,5 @@
 Processo de instalação do curso Personalização de Livros.
 
 ```
-npm i -g personalizar
+npm i -g @aprender.digital/personalizar
 ```
