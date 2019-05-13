@@ -1,4 +1,11 @@
 {
-"name": "@aprender.digital/personalizar",
-"version": "0.1.0"
+    "name": "@aprender.digital/personalizar",
+    "version": "0.5.1",
+    "description": "Instalação do curso Personalização de Livros",
+    "dependencies": {
+        "shelljs": "^0.4.0"
+    },
+    "bin": {
+        "personalizar": "./bin/personalizar.js"
+    }
 }
