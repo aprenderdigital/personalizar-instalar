@@ -5,4 +5,5 @@ shell.exec("echo shell.exec works");
 
 //npm version major | minor | patch
 //npm publish
-//git clone 
+//git clone
+//npm -g uninstall @aprender.digital/personalizar --save
