@@ -5,3 +5,6 @@ Processo de instalação do curso Personalização de Livros.
 ```
 npm i -g @aprender.digital/personalizar
 ```
+```
+npm -g uninstall @aprender.digital/personalizar --save
+```
