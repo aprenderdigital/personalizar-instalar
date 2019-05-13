@@ -1,1 +1,2 @@
-[![npm version](http://img.shields.io/npm/v/REPO.svg?style=flat)](https://www.npmjs.com/package/@aprender.digital/personalizar "View this project on npm")
+[![npm version](http://img.shields.io/npm/v/REPO.svg?style=flat)](https://github.com/aprenderdigital/personalizar-instalar "View this project on npm")
+Processo de instalação do curso Personalização de Livros.
