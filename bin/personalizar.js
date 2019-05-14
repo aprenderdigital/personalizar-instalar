@@ -1,7 +1,9 @@
 #!/usr/bin/env node
 
 var shell = require("shelljs");
-shell.exec("echo shell.exec works");
+shell.exec('echo $(tput setaf 2)Bem-vindo$(tput sgr0) a instalação do curso Personalização de Livros.');
+shell.exec("echo $(tput setaf 1) $(tput setab 7)Clique abaixo$(tput sgr0) para que o processo de instalação continue");
+shell.exec("clasp login");
 
 //https://github.com/petermbenjamin/npm-petermbenjamin
 
